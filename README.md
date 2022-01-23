@@ -10,4 +10,5 @@
 - Rinkeby is a testing network different from the main network
 - Since deployment uses gas so get free ether from Rinkeby
 - As at now, no test was carried out on the solidity contract.
+- Contract address deployed to 0x730604E6C85515Fa3CFef2655309BB202f36369d
 
