@@ -4,8 +4,8 @@
 - wallet mnemonic is not added to dot.env file
 - The compile file contains code snippet that enables us to compile our solidity to bytecode and ABI
 - This compile file was aimed to simulate what a compiler such as remix does under the hood
-- The deploy file contains code snippets that enables us deploy to rinkeby network. 
-- you need to set up infura account and create a project to get api endpoint that your contract will be deployed to.
+- The file contains code snippets that enables us deploy to rinkeby network. 
+- you need to set up infura account and create a project to get an endpoint that your contract will be deployed to.
 - You need to setup a metamask account and enable rinkeby account 
 - Rinkeby is a testing network different from the main network
 - Since deployment uses gas so get free ether from Rinkeby
